@@ -8,6 +8,7 @@ packages = [{include = "height_converter"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+pyqt6 = "^6.6.1"
 
 
 [build-system]
